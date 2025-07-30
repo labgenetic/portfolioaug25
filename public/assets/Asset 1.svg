@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 203 203">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #3d8d7a;
+      }
+
+      .cls-1, .cls-3 {
+        font-size: 87.92px;
+      }
+
+      .cls-2 {
+        stroke: #3d8d7a;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #fbffe4;
+        stroke: #a3d1c6;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1" data-name="Calque 1">
+    <g>
+      <circle class="cls-4" cx="101.5" cy="101.5" r="100"/>
+      <g>
+        <text class="cls-3" transform="translate(73.65 170.69) rotate(-45)"><tspan x="0" y="0">C</tspan></text>
+        <text class="cls-1" transform="translate(168.71 75.62) rotate(135) scale(1 -1)"><tspan x="0" y="0">C</tspan></text>
+      </g>
+      <g>
+        <line class="cls-2" x1="140.06" y1="146.98" x2="54.41" y2="61.33"/>
+        <line class="cls-2" x1="164.64" y1="166.26" x2="35.12" y2="36.74"/>
+        <text/>
+      </g>
+    </g>
+  </g>
+</svg>

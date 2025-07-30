@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 55.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbffe4;
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1" data-name="Calque 1">
+    <g id="Dribbble-Light-Preview">
+      <g id="icons">
+        <g id="html-_124_" data-name="html-[#124]">
+          <path class="cls-1" d="M40.1,16.67h-23.95l.57,5.56h22.81c-.33,4.87-1.35,15.18-1.72,19.87l-12.81,3.61h0s-.03.02-.03.02l-12.82-4.51-.88-10.66h6.28l.44,5.73,6.98,2.6h.02l6.97-2.5.72-8.61H10.99c-.1-1.11-1.45-15.58-1.69-16.67h31.36c-.18,1.83-.35,3.72-.56,5.56h0ZM0,0l4.55,50.41,20.42,5.14,20.47-5.25L50,0H0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
