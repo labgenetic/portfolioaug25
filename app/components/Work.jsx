@@ -21,7 +21,7 @@ export default function Work() {
             </a>
             <div className="cursor-pointer flex flex-col items-center justify-center border-[1px] z-50 border-[#3D8D7A] w-52 h-32 rounded-br-4xl bg-[#3D8D7A] hover:bg-[#ffffff00] transition-colors duration-300" id="PRJ4"><span className="text-xl font-black text-[#3D8D7A] text-center cursor-none" >Ste Cherkaoui ProPrint</span></div>
         </div>
-        <a href="https://charafsresumelink.tiiny.site" target="_blank" rel="noopener noreferrer">
+        <a href='https://drive.google.com/file/d/1GAUQiOOZKzlz-kv9SO4tgxP1D_LweFr3/view?usp=sharing' download="CharafEddineCharouitResume.pdf" target="_blank" rel="noopener noreferrer">
         <button  className="mt-12 p-2 px-4 font-bold rounded-2xl border-1 border-[#A3D1C6] text-[#FBFFE4] bg-[#3D8D7A] hover:scale-105  hover:border-[#3D8D7A] hover:border-[0.5px] hover:bg-[#a3d1c665] hover:text-[#3D8D7A] hover:font-regular transition-colors duration-200 cursor-pointer">
           Want My Resume ?
         </button>
