@@ -6,6 +6,13 @@ export default function Header() {
   return (
     <div className="flex flex-col items-center justify-center -top-60 gap-4 h-full absolute self-end p-4 cursor-default select-none">
         <div className="flex justify-center items-center gap-5 place-self-end justify-self-start p-2">
+            <Image
+            src="/assets/Asset 1.svg"
+            width={40}
+            height={40}
+            alt='logo'
+            className="opacity-100 sm:opacity-0"
+            />
             <a href="https://stackoverflow.com/users/24643497/charaf-lamar" target="_blank" rel="noopener noreferrer">
             <Image
                 src="/assets/StackOverflow-Dark.svg"
@@ -24,6 +31,15 @@ export default function Header() {
                 className="hover:scale-120 transition-transform duration-200 cursor-pointer hover:hue-rotate-60 hover:brightness-100"
             />
             </a>
+            <a href="mailto:charafcharouit@gmail.com" target="_blank" rel="noopener noreferrer">
+            <Image
+                src="/assets/Email.svg"
+                width={30}
+                height={30}
+                alt="mail"
+                className="hover:scale-120 transition-transform duration-200 cursor-pointer hover:hue-rotate-[220deg] hover:brightness-75 "
+/>
+            </a>
             <a href="https://github.com/labgenetic" target="_blank" rel="noopener noreferrer">
             <Image
                 src="/assets/Github-Dark.svg"
@@ -33,15 +49,7 @@ export default function Header() {
                 className="hover:scale-120 transition-transform duration-200 cursor-pointer hover:hue-rotate-180 hover:brightness-0"
             />
             </a>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
-            <Image
-                src="/assets/Email.svg"
-                width={30}
-                height={30}
-                alt="mail"
-                className="hover:scale-120 transition-transform duration-200 cursor-pointer hover:hue-rotate-[220deg] hover:brightness-75 "
-/>
-            </a>
+            
         </div>
         
 
